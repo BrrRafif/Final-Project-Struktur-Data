@@ -1,0 +1,36 @@
+
+========== N = 100 ==========
+B+ Tree   INSERT : 0 ms
+Hash Map  INSERT : 0 ms
+B+ Tree   FIND   : 0 ms
+Hash Map  FIND   : 0 ms
+B+ Tree   UPDATE : 0 ms
+Hash Map  UPDATE : 0 ms
+B+ Tree   DELETE : 0 ms
+Hash Map  DELETE : 0 ms
+B+ Tree   Memory : 5332 bytes
+Hash Map  Memory : 2616 bytes
+
+========== N = 500 ==========
+B+ Tree   INSERT : 0 ms
+Hash Map  INSERT : 0 ms
+B+ Tree   FIND   : 0 ms
+Hash Map  FIND   : 0 ms
+B+ Tree   UPDATE : 2 ms
+Hash Map  UPDATE : 0 ms
+B+ Tree   DELETE : 1 ms
+Hash Map  DELETE : 0 ms
+B+ Tree   Memory : 27088 bytes
+Hash Map  Memory : 12328 bytes
+
+========== N = 1000 ==========
+B+ Tree   INSERT : 1 ms
+Hash Map  INSERT : 0 ms
+B+ Tree   FIND   : 0 ms
+Hash Map  FIND   : 0 ms
+B+ Tree   UPDATE : 3 ms
+Hash Map  UPDATE : 0 ms
+B+ Tree   DELETE : 3 ms
+Hash Map  DELETE : 0 ms
+B+ Tree   Memory : 52704 bytes
+Hash Map  Memory : 24856 bytes
